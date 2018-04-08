@@ -1,4 +1,4 @@
-# weixin
+# 一个仿照微信摇一摇签到的基于Vue.js的文件
 
 > A Vue.js project
 
